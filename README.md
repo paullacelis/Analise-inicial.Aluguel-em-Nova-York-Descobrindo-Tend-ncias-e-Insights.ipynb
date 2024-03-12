@@ -1,0 +1,1 @@
+# Analise-inicial.Aluguel-em-Nova-York-Descobrindo-Tend-ncias-e-Insights.ipynb
